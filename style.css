@@ -1,0 +1,26 @@
+body{
+  background-image: url('slider2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div{
+  background-image: url('avocado.jpg');
+  background-repeat: repeat-y;
+  width: 70%;
+  height: 300px;
+  background-color: white;
+  overflow: scroll;
+  font-family: Times New Roman;
+}
+div .satu{
+  color: blue;
+  text-align: left;
+}
+div .dua{
+  color: red;
+  text-align: right;
+}
+div .tiga{
+  color: green;
+  text-align: center;
+}
